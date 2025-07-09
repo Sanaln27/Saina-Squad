@@ -1,13 +1,13 @@
 # 💤 Sleep Debt Wallet  ⏳🔒
 
 A smart wellness app that tracks your **sleep hours** and **screen time**, and automatically **locks social media** when you're not giving your mind enough rest.
-🧠 Concept
+🧠Concept
 - 📉 **Sleep Debt:** Hours you owe your body
 - 📱 **Screen Time Debt:** Hours you spend glued to screens
 
 > 🔐 **If sleep debt increases** AND screen time gets too high, your social media apps/websites are **automatically locked**.
 > 
-## 💡 Core Features
+## Core Features
 
 | Feature                      | Description |
 |-----------------------------|-------------|
