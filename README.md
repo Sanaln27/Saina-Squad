@@ -20,7 +20,7 @@ A smart wellness app that tracks your **sleep hours** and **screen time**, and a
 
 ---
 
-## 📊 How Locking Works
+## How Locking Works
 
 | Condition | Result |
 |----------|--------|
@@ -31,7 +31,7 @@ A smart wellness app that tracks your **sleep hours** and **screen time**, and a
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 - 🐍 Python (main logic)
 - 📉 Pandas & Matplotlib (data + graphs)
@@ -39,7 +39,7 @@ A smart wellness app that tracks your **sleep hours** and **screen time**, and a
 - 🖥️ PC Version: `pyautogui`, `time`, `browser history` module
 - 🔐 Chrome Extension / Windows Host File Modifier *(for blocking)*
 
-## 🛠️ How to Run
+## How to Run
 
 1. Clone the repo:
    ```bash
